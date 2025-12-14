@@ -22,4 +22,5 @@ int main()
 	result_line[last - first - 1] = '\0';
 	int k = strlen(result_line);
 	printf("Количество символов: %d", k);
+
 }
